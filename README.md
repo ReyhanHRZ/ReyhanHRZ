@@ -1,4 +1,4 @@
-[![MasterHead](http:https://hizliresim.com/gnyxw2j)
+[![MasterHead]([http:https://hizliresim.com/gnyxw2j](https://hizliresim.com/gnyxw2j][img]https://i.hizliresim.com/gnyxw2j.jpg[/img][/url))
 
 <h1 align="center">Hi 👋, I'm ReyhanHRZ</h1>
 <h3 align="center">Although I am an electronic software developer, I am developing myself as a database administrator from Türkiye</h3>
