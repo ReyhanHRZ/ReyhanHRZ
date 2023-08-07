@@ -1,4 +1,4 @@
-  [![MasterHead](https://lh6.googleusercontent.com/XuIQQ_GY6xGgcQaT2MG7fumJpehVNOO0MDmWfQrOuCWeIqQ3-RDijjnHOUyTKLpEN_I4fqartcHA2Woi7GT0Quea562vbrtCzFjmY5KGJcUnjMLQbQMZW3jPBn5OQahqRw=w740)
+  [![MasterHead](https://lh3.googleusercontent.com/w6ZMif_XGnuDTfZcZ3KDjfXVOKMRMhRPa9ZglJVdkQbLYBWWfB1xNgrmaxmhnLF1xkLsralQjV-Np818nIe6sf6H5TSxvISGooD6SlIYg7861p7X4HF8TFdDGZXiVUOMdA=w740)]
 
 <h1 align="center">Hi 👋, I'm ReyhanHRZ</h1>
 <h3 align="center">Although I am an electronic software developer, I am developing myself as a database administrator from Türkiye</h3>
